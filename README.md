@@ -1,2 +1,2 @@
 # PatternProgramming
-Here I have solved all pattern questions
+Here I have solved pattern questions
